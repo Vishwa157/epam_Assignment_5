@@ -1,0 +1,43 @@
+2020-03-01 18:08:56 [main] INFO  SimpleInterest:18 - Simple Interest is being calculated
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] INFO  CostEstimator:34 - Above Standard Construct Option without the choice of Automation
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] ERROR CostEstimator:38 - Invalid option, as the result -1 is returned
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] INFO  CostEstimator:48 - Automated High Standard Construct Option with Automation
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] INFO  CostEstimator:44 - High Standard Construct Option without the choice of Automation
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] INFO  CostEstimator:24 - Standard Construct Option without the choice of Automation
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] ERROR CostEstimator:28 - Invalid option, as the result -1 is returned
+2020-03-01 18:09:53 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-01 18:09:53 [main] ERROR CostEstimator:54 - Invalid choice is selected, as the result -1 is returned
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] INFO  CostEstimator:34 - Above Standard Construct Option without the choice of Automation
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] ERROR CostEstimator:38 - Invalid option, as the result -1 is returned
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] INFO  CostEstimator:48 - Automated High Standard Construct Option with Automation
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] INFO  CostEstimator:44 - High Standard Construct Option without the choice of Automation
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] INFO  CostEstimator:24 - Standard Construct Option without the choice of Automation
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] ERROR CostEstimator:28 - Invalid option, as the result -1 is returned
+2020-03-03 14:41:18 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 14:41:18 [main] ERROR CostEstimator:54 - Invalid choice is selected, as the result -1 is returned
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] INFO  CostEstimator:34 - Above Standard Construct Option without the choice of Automation
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] ERROR CostEstimator:38 - Invalid option, as the result -1 is returned
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] INFO  CostEstimator:48 - Automated High Standard Construct Option with Automation
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] INFO  CostEstimator:44 - High Standard Construct Option without the choice of Automation
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] INFO  CostEstimator:24 - Standard Construct Option without the choice of Automation
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] ERROR CostEstimator:28 - Invalid option, as the result -1 is returned
+2020-03-03 20:54:19 [main] INFO  CostEstimator:20 - estimateCost method is running
+2020-03-03 20:54:19 [main] ERROR CostEstimator:54 - Invalid choice is selected, as the result -1 is returned
